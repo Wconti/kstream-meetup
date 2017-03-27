@@ -5,11 +5,11 @@ A kstream script based on meetup open data
 
 ### Installation
 
-`git clone origin https://github.com/Wconti/kstream-meetup.git`
+`git clone https://github.com/Wconti/kstream-meetup.git`
 
 ### Run
 
-`java -cp target/kstream-meetup-1.0-SNAPSHOT.jar com.wconti.app.KstreamMeepup`
+`java -cp target/kstream-meetup-1.0-SNAPSHOT.jar com.wconti.app.KstreamMeetup`
 
 
 ### Monitor on kafka console
