@@ -9,7 +9,7 @@ A kstream script based on meetup open data
 
 ### Run
 
-`java -cp target/kstream-meetup-1.0-SNAPSHOT.jar com.wconti.app.KstreamMeepup`
+`java -cp target/kstream-meetup-1.0-SNAPSHOT.jar com.wconti.app.KstreamMeetup`
 
 
 ### Monitor on kafka console
