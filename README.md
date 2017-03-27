@@ -5,7 +5,7 @@ A kstream script based on meetup open data
 
 ### Installation
 
-`git clone origin https://github.com/Wconti/kstream-meetup.git`
+`git clone https://github.com/Wconti/kstream-meetup.git`
 
 ### Run
 
