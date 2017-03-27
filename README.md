@@ -15,7 +15,7 @@ A kstream script based on meetup open data
 ### Monitor on kafka console
 ```
 bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 \
-  --topic testout \ 
+  --topic meetupout \ 
   --formatter kafka.tools.DefaultMessageFormatter \
   --property print.key=true \
   --property key.deserializer=org.apache.kafka.common.serialization.StringDeserializer \
